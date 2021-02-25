@@ -9,15 +9,17 @@ The script visualizes strings of length _m_ shared between sequences.
 
 To run the script, one can run the following command in the directory that contains input files for sequences:
 
-`python3 Dot.py _m_ file1.fasta file2.fasta`
+`python3 Dot.py m file1.fasta file2.fasta`
 
 to compare two individual sequences
 
 or
 
-`python3 Dot.py _m_ multifastafile`
+`python3 Dot.py m multifastafile`
 
-for pairwise comparison between the sequences in multifasta file 
+for pairwise comparison between the sequences in multifasta file
+
+
 
 Color scheme:
 * blue - exact match of length _m_ on a forward strand
