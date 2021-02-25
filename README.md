@@ -2,6 +2,7 @@
 ### Tatiana Lenskaia and Daniel Boley
 
 This repository contains code and examples for the dot-matrix display implemented using dictionary-based methods.
+
 Color scheme:
 * blue - exact match of length _m_ on a forward strand
 * black - the end of continious match on a forward strand
