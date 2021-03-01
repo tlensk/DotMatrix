@@ -9,6 +9,6 @@ Complete genomes of the following three Coronavisuses:
 * MN908947, Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1
 
 ### Results
-#### Figure2.1.png
+#### Figure3.png
 Dot-matrix display of the three Coronaviruses for _m_ = 40 bp
 
